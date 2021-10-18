@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there😄
 
 Hello, I am a researcher who is interested in Java. and feel free to contact me directly at qwsdpolk123@naver.com
 
