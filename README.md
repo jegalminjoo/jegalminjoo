@@ -8,15 +8,6 @@ Hello, I am a researcher who is interested in Java. and feel free to contact me 
 
 🌱 I’m currently learning Java, Java Swing, MySQL, JSP and Spring Framework.
 
-Hi there 👩🏻‍💻❤️
-안녕, 날 보러 와줘서 고마워!
-
-기술스택
-Hits Hits naverblog
-
-Top Langs
-
-
 
 <!--
 **jegalminjoo/jegalminjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
