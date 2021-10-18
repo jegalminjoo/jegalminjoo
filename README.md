@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I am a researcher who is interested in Medical artificial intelligence, Autonomous vehicles, Keggle. and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@google.com
+Hello, I am a researcher who is interested in . and feel free to contact me directly at qwsdpolk123@naver.com
 
 <!--
 **jegalminjoo/jegalminjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
