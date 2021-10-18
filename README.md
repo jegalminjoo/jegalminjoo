@@ -2,7 +2,7 @@
 
 Hello, I am a researcher who is interested in Java. and feel free to contact me directly at qwsdpolk123@naver.com
 
-👋 Hi, I’m @nice_to_minchu
+👋 @nice_to_minchu
 
 👀 I’m interested in Java
 
