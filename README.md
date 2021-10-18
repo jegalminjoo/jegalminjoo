@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Hello, I am a researcher who is interested in . and feel free to contact me directly at qwsdpolk123@naver.com
+Hello, I am a researcher who is interested in Java. and feel free to contact me directly at qwsdpolk123@naver.com
 
+👋 Hi, I’m @nice_to_minchu
+👀 I’m interested in Java
+🌱 I’m currently learning Java, Java Swing, MySQL, JSP and Spring Framework.
 <!--
 **jegalminjoo/jegalminjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
