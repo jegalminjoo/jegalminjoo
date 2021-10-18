@@ -7,7 +7,7 @@ Hello, I am a researcher who is interested in Java. and feel free to contact me 
 🌱 I’m currently learning Java, Java Swing, MySQL, JSP and Spring Framework.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jegalminjoo&layout=compact)](https://github.com/jegalminjoo/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jegalminjoo&show_icons=true&theme=radical)
+
 
 <!--
 **jegalminjoo/jegalminjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
